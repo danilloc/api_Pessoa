@@ -44,14 +44,6 @@ public class Pessoa {
         if (dados.dataNasc()!= null){
             this.dataNasc = dados.dataNasc();
         }
-//        if (dados.endereco()!= null){
-//            this.enderecos.atualizarInformacoe(dados.endereco());
-//        }
-
     }
-
-
-
-
 }
 
